@@ -1,0 +1,8 @@
+[submodule "nibras-cli"]
+	path = nibras-cli
+	url = https://github.com/NibrasPlatform/nibras-cli.git
+	branch = main
+[submodule "nibras-student-dashboard"]
+	path = nibras-student-dashboard
+	url = https://github.com/NibrasPlatform/nibras-student-dashboard.git
+	branch = main
