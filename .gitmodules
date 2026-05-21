@@ -6,3 +6,6 @@
 	path = nibras-student-dashboard
 	url = https://github.com/NibrasPlatform/nibras-student-dashboard.git
 	branch = main
+[submodule "ChatBot.V1"]
+	path = ChatBot.V1
+	url = https://github.com/NibrasPlatform/ChatBot.V1.git
