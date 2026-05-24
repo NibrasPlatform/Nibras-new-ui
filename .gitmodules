@@ -1,11 +1,11 @@
 [submodule "nibras-cli"]
 	path = nibras-cli
-	url = https://github.com/NibrasPlatform/nibras-cli.git
+	url = https://github.com/EpitomeZied/nibras-cli.git
 	branch = main
 [submodule "nibras-student-dashboard"]
 	path = nibras-student-dashboard
-	url = https://github.com/NibrasPlatform/nibras-student-dashboard.git
+	url = https://github.com/EpitomeZied/nibras-student-dashboard.git
 	branch = main
 [submodule "ChatBot.V1"]
 	path = ChatBot.V1
-	url = https://github.com/NibrasPlatform/ChatBot.V1.git
+	url = https://github.com/EpitomeZied/ChatBot.V1.git
